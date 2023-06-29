@@ -29,6 +29,7 @@ public class AnoberiaCore : ModuleRules
 				"CoreUObject",
 				"Engine",
 				"UMG"
+				//"GameplayAbilities"
 			}
 			);
 			
